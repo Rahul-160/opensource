@@ -1,6 +1,6 @@
 # Globo Open Source
 
-Globo open source website [https://opensource.globo.com](http://opensource.globo.com).
+Globo open source [website](http://opensource.globo.com).
 
 Made with ❤️to the open source community.
 
